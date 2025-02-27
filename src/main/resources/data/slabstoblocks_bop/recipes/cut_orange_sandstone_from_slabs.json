@@ -1,0 +1,1 @@
+{"type": "minecraft:crafting_shaped", "group": "biomesoplenty:cut_orange_sandstone", "pattern": ["#", "#"], "key": {"#": {"item": "biomesoplenty:cut_orange_sandstone_slab"}}, "result": {"item": "biomesoplenty:cut_orange_sandstone"}}
