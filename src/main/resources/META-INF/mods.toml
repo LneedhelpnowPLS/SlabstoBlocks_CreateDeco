@@ -42,7 +42,7 @@ authors="LneedhelpnowPLS" #optional
 
 # The description text for the mod (multi line!) (#mandatory)
 description='''
-Adds crafting recipes for making Biome O' Plenty's slabs into their block variants.
+Adds crafting recipes for making Biomes O' Plenty's slabs into their block variants.
 '''
 # A dependency - use the . to indicate dependency for a specific modid. Dependencies are optional.
 [[dependencies.slabstoblocks_bop]] #optional
