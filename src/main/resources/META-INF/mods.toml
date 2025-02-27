@@ -42,9 +42,7 @@ authors="LneedhelpnowPLS" #optional
 
 # The description text for the mod (multi line!) (#mandatory)
 description='''
-Ever annoyed by the fact that the config screen on the original Slabs to Blocks suck to work with?
-Well now you don't have to enter each slab crafting recipe individually!
-
+Adds crafting recipes for making Biome O' Plenty's slabs into their block variants.
 '''
 # A dependency - use the . to indicate dependency for a specific modid. Dependencies are optional.
 [[dependencies.slabstoblocks_bop]] #optional
@@ -62,7 +60,6 @@ Well now you don't have to enter each slab crafting recipe individually!
 [[dependencies.slabstoblocks_bop]]
     modId="minecraft"
     mandatory=true
-# This version range declares a minimum of the current minecraft version up to but not including the next major version
     versionRange="[1.19.2,1.20)"
     ordering="NONE"
     side="BOTH"
