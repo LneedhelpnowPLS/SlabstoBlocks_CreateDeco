@@ -1,1 +1,0 @@
-{"type": "minecraft:crafting_shaped", "group": "createdeco:[example_block]", "pattern": ["#", "#"], "key": {"#": {"item": "createdeco:[example_horizontal_slab]"}}, "result": {"item": "createdeco:[example_block]"}}

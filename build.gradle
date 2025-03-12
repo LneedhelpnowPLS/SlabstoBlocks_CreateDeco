@@ -82,7 +82,8 @@ repositories {
 }
 dependencies {
     minecraft 'net.minecraftforge:forge:1.19.2-43.2.3'
-    implementation fg.deobf("curse.maven:biomes-o-plenty-220318:4128419") //Dependency is right here you bum
+    implementation fg.deobf("curse.maven:create-deco-509285:4554164")
+    implementation fg.deobf("curse.maven:create-328085:5797604")
 }
 jar {
     manifest {
